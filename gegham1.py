@@ -1,3 +1,6 @@
+# Write a recursive function to determine whether
+# all digits of the number are odd or not
+
 def check(n):
     if n < 2:
         return n % 2 == 0
