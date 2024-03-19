@@ -9,7 +9,7 @@ def print_even_numbers():
 
 def print_odd_numbers():
     print("\nList of odd numbers:")
-    for i in range(1, 51, 2):
+    for i in range(1, 1000, 2):
         print(i, end=" ")
 
 
