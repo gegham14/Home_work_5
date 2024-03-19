@@ -1,3 +1,6 @@
+# Write a python function all even number
+# in 10.000 use threading and print time. 
+
 import threading
 
 
